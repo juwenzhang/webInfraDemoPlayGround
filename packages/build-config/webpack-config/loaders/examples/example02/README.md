@@ -1,0 +1,1 @@
+* 我们的自定义 loader 的话是分为同步 loader 和 异步loader 区分的呐
